@@ -13,3 +13,4 @@ Questions -> Leetcode
 11. Missing Number
 12. Valid Anagram
 13. Valid Parentheses
+Merge Intervals
