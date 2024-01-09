@@ -6,3 +6,5 @@ Questions -> Leetcode
 4. Contains Duplicate
 5. Product of Array Except Self
 6. Maximum Subarray
+8. Find Minimum in Rotated Sorted Array
+7. Search in Rotated Sorted Array
