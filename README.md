@@ -8,3 +8,4 @@ Questions -> Leetcode
 6. Maximum Subarray
 8. Find Minimum in Rotated Sorted Array
 7. Search in Rotated Sorted Array
+8. 3Sum
