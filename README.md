@@ -11,4 +11,5 @@ Questions -> Leetcode
 9. 3Sum
 10. Container With Most Water
 11. Missing Number
-Valid Anagram
+12. Valid Anagram
+13. Valid Parentheses
