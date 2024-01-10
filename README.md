@@ -32,3 +32,4 @@ Questions -> Leetcode
 30. Generate Parentheses
 31. Subsets
 32. Subsets II
+33. Jump Game
