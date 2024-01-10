@@ -10,3 +10,16 @@ class Solution:
                     dp[i] = True
                     break
         return dp[-1]
+
+
+class Solution:
+    # Greedy
+    def canJump(self, nums: List[int]) -> bool:
+        finalPos = len(nums)-1
+
+        for i in range(len(nums)-2, -1, -1):
+            if i + nums[i] >= finalPos:
+                finalPos = i
+
+        # if my final position has reached 0
+        return True if finalPos == 0 else False
