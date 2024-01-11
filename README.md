@@ -35,3 +35,4 @@ Questions -> Leetcode
 33. Jump Game
 34. LRU Cache
 35. Reverse Integer
+36. Palindrome Number
