@@ -47,3 +47,4 @@ Questions -> Leetcode
 45. Remove Nth Node From End of List
 46. Longest Palindromic Substring
 47. Insert Interval
+48. Validate Binary Search Tree
