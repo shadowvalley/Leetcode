@@ -44,3 +44,4 @@ Questions -> Leetcode
 42. Remove Element
 43. Length of Last Word
 44. Longest Common Prefix
+45. Remove Nth Node From End of List
