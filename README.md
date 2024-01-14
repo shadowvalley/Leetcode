@@ -40,3 +40,4 @@ Questions -> Leetcode
 38. Roman to Integer
 39. Reverse Vowels of a String
 40. Reverse String
+41. Fizz Buzz
