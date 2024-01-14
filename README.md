@@ -41,3 +41,4 @@ Questions -> Leetcode
 39. Reverse Vowels of a String
 40. Reverse String
 41. Fizz Buzz
+42. Remove Element
