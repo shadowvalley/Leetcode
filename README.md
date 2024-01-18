@@ -71,3 +71,4 @@ Questions -> Leetcode
 69. All Nodes Distance K in Binary Tree
 70. Binary Search
 71. Merge Two Binary Trees
+72. Average of Levels in Binary Tree
