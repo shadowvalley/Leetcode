@@ -69,3 +69,4 @@ Questions -> Leetcode
 67. Permutations
 68. K Closest Points to Origin
 69. All Nodes Distance K in Binary Tree
+70. Binary Search
