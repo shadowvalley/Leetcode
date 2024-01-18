@@ -66,3 +66,4 @@ Questions -> Leetcode
 64. Remove Duplicates from Sorted List
 65. Combination Sum
 66. Combination Sum II
+67. Permutations
