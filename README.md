@@ -78,3 +78,4 @@ Questions -> Leetcode
 76. Middle of the Linked List
 77. Course Schedule
 78. Count and Say
+79. Sort List
