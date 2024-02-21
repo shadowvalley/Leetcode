@@ -90,3 +90,4 @@
 90. Minimum Moves to Equal Array Elements
 91. Cousins in Binary Tree
 92. Valid Palindrome II
+93. Longest Increasing Subsequence
