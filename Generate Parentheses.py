@@ -15,3 +15,25 @@ class Solution:
         
         if cc < oc:
             self.generate(oc, cc+1, ds+")", ans, n)
+
+
+class Solution:
+    def generateParenthesis(self, n: int) -> List[str]:
+        parans = []
+        self.genParans(n, parans, [], 0, 0)
+        return parans
+    
+    def genParans(self, n: int, parans: List[int], store: List[str], oc: int, cc: int):
+        if len(store) == 2*n:
+            parans.append(''.join(store))
+            return
+
+        if oc < n:
+            store.append("(")
+            self.genParans(n, parans, store, oc+1, cc)
+            store.pop()
+
+        if cc < oc:
+            store.append(")")
+            self.genParans(n, parans, store, oc, cc+1)
+            store.pop()
